@@ -19,10 +19,10 @@
 </div>
 
 # Preview
-<div>
-<img src="PreviewContent/start.gif" height="288" width="130">
-<img src="PreviewContent/gameLoading.gif" height="288" width="130">
-<img src="PreviewContent/gameAction.gif" height="288" width="130">
-<img src="PreviewContent/detail.gif" height="288" width="130">
-<img src="PreviewContent/quote.gif" height="288" width="130">
+<div align="center">
+<img src="PreviewContent/start.gif" height="288" width="130" alt="StartScene">
+<img src="PreviewContent/gameLoading.gif" height="288" width="130" alt="GameScene">
+<img src="PreviewContent/gameAction.gif" height="288" width="130" alt="GameScene">
+<img src="PreviewContent/detail.gif" height="288" width="130" alt="DetailScene">
+<img src="PreviewContent/quote.gif" height="288" width="130" alt="QuoteScene">
 </div>
